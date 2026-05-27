@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "654b28180ee7d484",
+    "type": "split",
+    "children": [
+      {
+        "id": "dac87df72b9bc45a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03996c051c975b0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.1-ray-core-actor-push-task-rpc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1-ray-core-actor-push-task-rpc"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6ae0cd3d0edc18e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3edf60006b8faa82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ce71349e104550b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a3ecb536bcc9a54d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b30fde0a2e1a53a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238.5
+  },
+  "right": {
+    "id": "ab201d76cb924839",
+    "type": "split",
+    "children": [
+      {
+        "id": "1185632c26519ed9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faf9b11ad751afed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.1-ray-core-actor-push-task-rpc.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1.1-ray-core-actor-push-task-rpc 的反向链接列表"
+            }
+          },
+          {
+            "id": "389d4916445d906e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.1-ray-core-actor-push-task-rpc.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1.1-ray-core-actor-push-task-rpc 的出链列表"
+            }
+          },
+          {
+            "id": "0d5bd525c1f6d44c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d7ef3f49a2390783",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1c3a8c58ef38b290",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.1-ray-core-actor-push-task-rpc.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1.1-ray-core-actor-push-task-rpc 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "03996c051c975b0d",
+  "lastOpenFiles": [
+    "1.2-ray-core-function-pickle.md",
+    "1.0-ray-core-worker.md",
+    "1.1-ray-core-pubsub-system.md",
+    "ray_task_submission_interaction_logic.md",
+    "1.1-ray-core-actor-push-task-rpc.md",
+    "1.0-ray-core-python-core-worker.md",
+    "1.0-ray-core-raylet.md",
+    "ray_worker_node_role_and_sequences.md"
+  ]
+}
